@@ -6,6 +6,8 @@ temp.push(musician[i] + "plays" + instruments[i]);
 return temp;
 }
 
-
+function johnLennonFacts(facts) {
+const temp = [];
+for
 
   
