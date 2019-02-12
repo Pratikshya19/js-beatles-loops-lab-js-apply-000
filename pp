@@ -8,6 +8,13 @@ return temp;
 
 function johnLennonFacts(facts) {
 const temp = [];
-for
+let i=0;
+while(i<facts.length) {
+temp.push(`${facts[i]} !!!`)
+i++
+}
+return temp;
+}
+function iLOveB
 
   
